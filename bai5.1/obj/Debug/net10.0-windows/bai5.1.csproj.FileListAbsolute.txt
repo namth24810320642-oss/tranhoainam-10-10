@@ -1,0 +1,17 @@
+D:\laptrinh.net\Trần Hoài Nam-1010-24810320642\bai5.1\bin\Debug\net10.0-windows\bai5.1.exe
+D:\laptrinh.net\Trần Hoài Nam-1010-24810320642\bai5.1\bin\Debug\net10.0-windows\bai5.1.deps.json
+D:\laptrinh.net\Trần Hoài Nam-1010-24810320642\bai5.1\bin\Debug\net10.0-windows\bai5.1.runtimeconfig.json
+D:\laptrinh.net\Trần Hoài Nam-1010-24810320642\bai5.1\bin\Debug\net10.0-windows\bai5.1.dll
+D:\laptrinh.net\Trần Hoài Nam-1010-24810320642\bai5.1\bin\Debug\net10.0-windows\bai5.1.pdb
+D:\laptrinh.net\Trần Hoài Nam-1010-24810320642\bai5.1\obj\Debug\net10.0-windows\bai5._1.Form1.resources
+D:\laptrinh.net\Trần Hoài Nam-1010-24810320642\bai5.1\obj\Debug\net10.0-windows\bai5.1.csproj.GenerateResource.cache
+D:\laptrinh.net\Trần Hoài Nam-1010-24810320642\bai5.1\obj\Debug\net10.0-windows\bai5.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\laptrinh.net\Trần Hoài Nam-1010-24810320642\bai5.1\obj\Debug\net10.0-windows\bai5.1.AssemblyInfoInputs.cache
+D:\laptrinh.net\Trần Hoài Nam-1010-24810320642\bai5.1\obj\Debug\net10.0-windows\bai5.1.AssemblyInfo.cs
+D:\laptrinh.net\Trần Hoài Nam-1010-24810320642\bai5.1\obj\Debug\net10.0-windows\bai5.1.csproj.CoreCompileInputs.cache
+D:\laptrinh.net\Trần Hoài Nam-1010-24810320642\bai5.1\obj\Debug\net10.0-windows\bai5.1.dll
+D:\laptrinh.net\Trần Hoài Nam-1010-24810320642\bai5.1\obj\Debug\net10.0-windows\refint\bai5.1.dll
+D:\laptrinh.net\Trần Hoài Nam-1010-24810320642\bai5.1\obj\Debug\net10.0-windows\bai5.1.pdb
+D:\laptrinh.net\Trần Hoài Nam-1010-24810320642\bai5.1\obj\Debug\net10.0-windows\bai5.1.genruntimeconfig.cache
+D:\laptrinh.net\Trần Hoài Nam-1010-24810320642\bai5.1\obj\Debug\net10.0-windows\ref\bai5.1.dll
+D:\laptrinh.net\Trần Hoài Nam-1010-24810320642\bai5.1\obj\Debug\net10.0-windows\bai5.1.csproj.Up2Date
